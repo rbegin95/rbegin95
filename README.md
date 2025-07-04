@@ -1,6 +1,6 @@
 # Hey there, I'm Chunk 👋
 
-> *aka Richard Begin*
+> *aka Richard*
 
 Welcome to my GitHub profile!
 
