@@ -1,16 +1,17 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Chunk;Developer+%F0%9F%92%BB;Student+%F0%9F%93%9D;Pride+%F0%9F%8C%88" alt="Typing SVG" />
+</p>
 
-<!--
-**rbegin95/rbegin95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### Hi there 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm **Chunk** — a passionate **Developer**, lifelong **Student**, and proud of my **Pride** identity. 🌈
+
+- 💻 Currently learning new technologies and working on exciting projects.
+- 🎓 Always expanding my knowledge and skills.
+- 🌐 Connect with me on GitHub to follow my journey.
+
+Thanks for visiting!
+
+---
